@@ -1,0 +1,3 @@
+[submodule "TeamCode/src/main/java/org/firstinspires/ftc/teamcode/vcsc/core"]
+	path = TeamCode/src/main/java/org/firstinspires/ftc/teamcode/vcsc/core
+	url = https://github.com/VCSilverCircuits/core.git
