@@ -19,7 +19,6 @@ public class ClawState extends State<ClawState> {
     public void toggle() {
         if (isOpen) {
             close();
-
         } else {
             open();
         }
